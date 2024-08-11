@@ -9,7 +9,15 @@
     "password": "Not Copyable",
     "records": [
         {
-            
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=fD0picfG4CE",
+            "percent": 100,
+            "hz": 360,
+        
+            "user": "Mizukii",
+            "link": "https://www.youtube.com/watch?v=rfCxxQ38FhU",
+            "percent": 100,
+            "hz": 322
         }
     ]
 }
