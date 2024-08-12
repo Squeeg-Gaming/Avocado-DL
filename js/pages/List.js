@@ -124,7 +124,7 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        You may use Click Between Frames. TPS AND PHYSICS BYPASS ARE BANNED. You must use cheat indicator if you have access to one.
+                        You may use Click Between Frames ONLY ON LEVELS WITHOUT FPS LOCKS. TPS AND PHYSICS BYPASS ARE BANNED. You must use cheat indicator + FPS and CPS counter if you have access to one.
                     </p>
                     <p>
                     Some levels (and most challenges) have FPS locks. if you beat a level with an FPS lock on an FPS different than the listed one your record will be rejected.
