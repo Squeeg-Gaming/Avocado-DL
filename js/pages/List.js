@@ -100,37 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        You can use FPS bypass on turbowarp up to 250
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Make sure we see the end screen and show the pause menu
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
-                    <p>
-                        You may use Click Between Frames ONLY ON LEVELS WITHOUT FPS LOCKS. TPS AND PHYSICS BYPASS ARE BANNED. You must use cheat indicator + FPS and CPS counter if you have access to one.
-                    </p>
-                    <p>
-                    Some levels (and most challenges) have FPS locks. if you beat a level with an FPS lock on an FPS different than the listed one your record will be rejected.
-                    </p>
-                </div>
-            </div>
+                        Do not show a cut run only
         </main>
     `,
     data: () => ({
