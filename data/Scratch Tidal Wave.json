@@ -14,6 +14,13 @@
             "link": "https://www.youtube.com/watch?v=eWc62T5xa04",
             "percent": 100,
             "hz": 250
+        },
+                {
+                        
+            "user": "CaptainFireBall",
+            "link": "https://www.youtube.com/watch?v=VtoRbOkUiXw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
