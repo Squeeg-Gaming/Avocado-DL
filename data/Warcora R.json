@@ -9,7 +9,25 @@
     "password": "Not Copyable",
     "records": [
         {
-            
+                        
+            "user": "DerpIsOk",
+            "link": "https://www.youtube.com/watch?v=jjBeEu0p5iI",
+            "percent": 100,
+            "hz": 30
+        },
+                        {
+                        
+            "user": "Compsognathus3",
+            "link": "https://www.youtube.com/watch?v=r92YdbssSHw",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+                        
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=DwY90RqP8Xw",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
